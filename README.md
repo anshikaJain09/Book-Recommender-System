@@ -87,4 +87,4 @@ Increases user engagement and retention
 Helps businesses boost sales through targeted recommendations
 Supports data-driven decision making
 
-Screenshot/Preview : 
+Screenshot/Preview : https://github.com/anshikaJain09/Book-Recommender-System/blob/main/Preview%20screenshot%20.png
